@@ -4,22 +4,22 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Suggest changes
+## Samm 4: Soovita muudatusi
 
-_Nice work reviewing that pull request :sparkles:_
+_Tore töö selle pull request'i ülevaatamisel :sparkles:_
 
-Now that you have explored the different ways you can review a pull request it is time to learn how to use _suggest changes_.
+Nüüd, kui oled uurinud erinevaid viise pull request'i ülevaatamiseks, on aeg õppida, kuidas kasutada _soovita muudatusi_.
 
-**What is _suggest changes_?**: This feature enables you to recommend a change to a pull request that the author can commit with the push of a button.
+**Mis on _soovita muudatusi_?**: See funktsioon võimaldab sul soovitada muudatust pull request'ile, mida autor saab ühe nupu vajutusega commit'ida.
 
-### :keyboard: Activity: Suggest changes
+### :keyboard: Tegevus: Soovita muudatusi
 
-1. On the pull request, click **Files changed**.
-1. Find the `index.html` changes.
-1. Hover your cursor next to the line numbers on the left side of the page.
-1. Click the blue plus icon.
-1. After the comment form appears, click the **Add a suggestion** button. <br>
+1. Pull request'il kliki **Files changed**.
+1. Leia `index.html` muudatused.
+1. Hõlju kursoriga reanumbrite kohal lehe vasakul küljel.
+1. Kliki sinisel pluss ikoonil.
+1. Pärast kommentaarivormi ilmumist kliki nupul **Add a suggestion**. <br>
    ![add-a-suggestion-button](https://user-images.githubusercontent.com/97056108/184449714-61e8ee51-824a-48c1-9436-2dfd67f2c070.png)
-1. Edit the suggestion.
-1. Click **Add a single comment**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Muuda soovitust.
+1. Kliki **Add a single comment**.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

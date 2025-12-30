@@ -5,19 +5,19 @@
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-## Step 2: Assign yourself
+## Samm 2: Määra ennast
 
-_Great job opening that pull request! :wave:_
+_Suurepärane töö selle pull request'i avamisel! :wave:_
 
-**What is a _pull request review_?**: Reviewing a pull request is an opportunity to examine another contributor's changes and give them feedback. It's an awesome opportunity to learn more about how the project works and how others solve problems.
+**Mis on _pull request'i ülevaatus_?**: Pull request'i ülevaatamine on võimalus uurida teise panustaja muudatusi ja anda neile tagasisidet. See on suurepärane võimalus õppida rohkem projekti toimimisest ja kuidas teised probleeme lahendavad.
 
-The best way to get a review is to ask for one. On GitHub, you can ask someone to review a pull request by assigning them as a reviewer or assignee. If you are not ready for review, consider [creating a draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) instead.
+Parim viis ülevaatust saada on seda küsida. GitHubis saad paluda kellelgi pull request'i üle vaadata, määrates ta ülevaatajaks või vastutajaks. Kui sa pole veel ülevaatuseks valmis, kaalu [mustandi pull request'i loomist](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-### :keyboard: Activity: Assign yourself
+### :keyboard: Tegevus: Määra ennast
 
-1. Open the pull request you just created.
-1. Under **Assignees** on the right side of the screen, add yourself.
+1. Ava äsja loodud pull request.
+1. Paremal pool ekraani all **Assignees** lisa ennast.
 
-   Because you created the pull request, you can't assign yourself as a reviewer, but feel free to assign a friend as a reviewer instead to see how it works :smile:
+   Kuna sa lõid pull request'i, ei saa sa ennast ülevaatajaks määrata, aga võid julgelt määrata sõbra ülevaatajaks, et näha, kuidas see töötab :smile:
 
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

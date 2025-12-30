@@ -6,22 +6,22 @@
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Open a pull request
+## Samm 1: Ava pull request
 
-_Welcome to "Review pull requests"! :wave:_
+_Tere tulemast kursusele "Pull request'ide ülevaatamine"! :wave:_
 
-Let's get started by opening a pull request.
+Alustame pull request'i avamisega.
 
-**What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
+**Mis on pull request?**: Koostöö toimub pull request'il. Pull request näitab sinu haru muudatusi teistele inimestele. See pull request hoiab muudatusi, mille just oma harus tegid, ja pakub nende rakendamist `main` harusse.
 
-### :keyboard: Activity: Create a pull request
+### :keyboard: Tegevus: Loo pull request
 
-1. Click on the **Pull requests** tab in your repository.
-2. Click **New pull request**.
-3. In the **base:** dropdown, make sure **main** is selected.
-4. Select the **compare:** dropdown, and click `update-game`.
-5. Click **Create pull request**.
-6. Enter a title for your pull request: `Update the game over message`.
-7. Enter a description for your pull request: `Update the game over message so people know how to play again!`
-8. Click **Create pull request**.
-9. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Kliki oma repositooriumis vahekaardil **Pull requests**.
+2. Kliki **New pull request**.
+3. Veendu rippmenüüs **base:**, et **main** on valitud.
+4. Vali rippmenüü **compare:** ja kliki `update-game`.
+5. Kliki **Create pull request**.
+6. Sisesta oma pull request'ile pealkiri: `Uuenda mäng läbi teadet`.
+7. Sisesta oma pull request'ile kirjeldus: `Uuenda mäng läbi teadet, et inimesed teaksid, kuidas uuesti mängida!`
+8. Kliki **Create pull request**.
+9. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

@@ -5,36 +5,36 @@
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-## Step 3: Leave a review
+## Samm 3: Jäta ülevaatus
 
-_You assigned yourself! :tada:_
+_Sa määrasid ennast! :tada:_
 
-Pull request reviews ensure quality and maintain momentum of changes to your project.
+Pull request'ide ülevaatused tagavad kvaliteedi ja hoiavad muudatuste tempot sinu projektis.
 
-#### When reviewing a pull request:
+#### Pull request'i ülevaatamisel:
 
-1. Review the _title_ and _body_ of the pull request, and possibly any associated issue, to understand the intended change.
-1. Review the [diff](https://docs.github.com/en/get-started/quickstart/github-glossary#diff), the comparison of the proposed code, in the context of the whole project.
-1. For most things, try out the proposed change. Check if the actual change matches the intention. Find the repository's [contributing guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) to find out how to review the changes.
+1. Vaata üle pull request'i _pealkiri_ ja _sisu_, ning võimalusel seotud issue, et mõista kavandatud muudatust.
+1. Vaata üle [diff](https://docs.github.com/en/get-started/quickstart/github-glossary#diff), pakutud koodi võrdlus, kogu projekti kontekstis.
+1. Enamiku asjade puhul proovi pakutud muudatust. Kontrolli, kas tegelik muudatus vastab kavatsusele. Leia repositooriumi [panustamise juhend](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), et teada saada, kuidas muudatusi üle vaadata.
 
-#### In your review comments:
+#### Oma ülevaatuse kommentaarides:
 
-- Identify potential issues, risks, and limitations.
-- Suggest changes and improvements.
-- Share awareness of upcoming changes that the pull request doesn't account for.
-- Ask questions to verify shared understanding.
-- Highlight what the author did well and should keep doing.
-- Prioritize the most important feedback.
-- Be concise _and_ provide meaningful detail.
-- Treat the pull request author with kindness and empathy.
+- Tuvasta võimalikud probleemid, riskid ja piirangud.
+- Soovita muudatusi ja parendusi.
+- Jaga teadlikkust tulevastest muudatustest, mida pull request ei arvesta.
+- Esita küsimusi jagatud arusaama kinnitamiseks.
+- Tõsta esile, mida autor tegi hästi ja peaks jätkama.
+- Prioritiseeri kõige olulisem tagasiside.
+- Ole lühike _ja_ anna tähenduslikku detaili.
+- Kohtle pull request'i autorit lahkuse ja empaatiaga.
 
-When an approval or request for changes is not yet needed, consider using **comments**. An **approval** lets the author know you believe the pull request is safe to merge. **Requesting changes** lets the author know you believe the pull request is not ready to merge.
+Kui heakskiit või muudatuste nõudmine pole veel vajalik, kaalu **kommentaaride** kasutamist. **Heakskiit** annab autorile teada, et usud pull request'i olevat ohutu ühendamiseks. **Muudatuste nõudmine** annab autorile teada, et usud pull request'i mitte olevat ühendamiseks valmis.
 
-### :keyboard: Activity: Leave a review
+### :keyboard: Tegevus: Jäta ülevaatus
 
-1. On the pull request, click **Files changed**.
-1. Click **Review changes**.
-1. Add a comment with your initial thoughts on the pull request.
-1. Select _comment_. You won't be able to _approve_ or _request changes_ to your own pull request.
-1. Click **Submit review**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Pull request'il kliki **Files changed**.
+1. Kliki **Review changes**.
+1. Lisa kommentaar oma esialgsete mõtetega pull request'i kohta.
+1. Vali _comment_. Sa ei saa oma pull request'i _heaks kiita_ või _muudatusi nõuda_.
+1. Kliki **Submit review**.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

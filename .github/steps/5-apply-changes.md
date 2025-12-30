@@ -4,15 +4,15 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Apply suggested changes
+## Samm 5: Rakenda soovitatud muudatused
 
-_Nicely done suggesting changes! :partying_face:_
+_Hästi tehtud muudatuste soovitamisel! :partying_face:_
 
-Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
+Nüüd vaatame, kui lihtne on [soovitust rakendada](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
 
-### :keyboard: Activity: Apply suggested changes
+### :keyboard: Tegevus: Rakenda soovitatud muudatused
 
-1. Click **Commit suggestion**.
-1. Type a commit message.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Kliki **Commit suggestion**.
+1. Kirjuta commit-sõnum.
+1. Kliki **Commit changes**.
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.

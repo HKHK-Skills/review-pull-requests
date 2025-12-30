@@ -4,14 +4,14 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 6: Merge your pull request
+## Samm 6: Ühenda oma pull request
 
-_Almost there! :heart:_
+_Peaaegu valmis! :heart:_
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+Nüüd saad oma pull request'i [ühendada](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)!
 
-### :keyboard: Activity: Merge your pull request
+### :keyboard: Tegevus: Ühenda oma pull request
 
-1. Click **Merge pull request**.
-1. Delete the branch `update-game` (optional).
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Kliki **Merge pull request**.
+1. Kustuta haru `update-game` (valikuline).
+1. Oota umbes 20 sekundit ja seejärel värskenda seda lehte (seda, kus sa juhiseid loed). [GitHub Actions](https://docs.github.com/en/actions) uuendab automaatselt järgmise sammu juurde.
